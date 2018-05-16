@@ -4,4 +4,4 @@ Git is my first touch system.
 This is my second gitLab
 Three commit
 Today is a fun day
-add a paper
+add a master
